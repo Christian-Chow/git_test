@@ -19,10 +19,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             Git_testTheme {
-                //Done!!
-                //fix lalala
-                //local change
-                //experimental code bababa
+                //experimental code blablabla
             }
         }
     }
