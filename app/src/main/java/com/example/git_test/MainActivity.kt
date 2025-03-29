@@ -21,6 +21,7 @@ class MainActivity : ComponentActivity() {
             Git_testTheme {
                 //experimental code!!! blablabla
                 //main code 1
+                //this line will be merged.
             }
         }
     }
