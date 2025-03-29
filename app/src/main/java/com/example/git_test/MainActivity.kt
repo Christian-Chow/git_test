@@ -20,6 +20,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             Git_testTheme {
                 //Done!!
+                //fix lalala
             }
         }
     }
