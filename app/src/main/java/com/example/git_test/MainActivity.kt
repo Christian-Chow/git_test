@@ -23,6 +23,7 @@ class MainActivity : ComponentActivity() {
                 //hehehaha
                 //local changes
                 //changes from github !!!
+                //changes from github2 !!!
             }
         }
     }
